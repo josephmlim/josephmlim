@@ -1,5 +1,5 @@
-### Hi there 👋
-# I’m currently learning how to code at the CoGrammar Skills Bootcamp. 
+# Hi there 👋
+## I’m currently learning how to code at the CoGrammar Skills Bootcamp. 
 <!--
 **josephmlim/josephmlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
