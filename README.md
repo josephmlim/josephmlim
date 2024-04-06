@@ -12,7 +12,7 @@ Procedures, in line with agreed SLA’s.
 - Answering internal and external partners and customers questions and enquiries referring to the appropriate 
 team.
 - Testing system changes and upgrades by inputting new data and reviewing output.
-• Assisting with projects, when required.
+- Assisting with projects, when required.
 
 <!--
 **josephmlim/josephmlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
